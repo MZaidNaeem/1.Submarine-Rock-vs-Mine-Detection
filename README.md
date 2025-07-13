@@ -1,4 +1,4 @@
-<h1 style="blue">🚀 Submarine Rock vs Mine Prediction</h1>
+<h1 style="blue">🚀 Submarine Rock vs Mine Detection</h1>
 This project uses machine learning techniques to classify whether an object detected by a submarine's sonar signal is a rock or a mine. The goal is to enhance underwater object identification, aiding in navigation and safety operations.
 
 ![app](img.jpg)
